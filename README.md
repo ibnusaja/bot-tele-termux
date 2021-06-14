@@ -18,6 +18,8 @@ A. Fitur publik
   1. chat semi-interatif dengan bot
   2. user bisa mendapatkan chat_id sendiri, maupun chat_id group
   3. comming~soon ....
+
+
 B. Fitur private (hanya penggunaan pribadi, dilarang disalahgunkan)
   1. membuka aplikasi" lainnya (mis: youtube, whatsapp, line) tanpa menyentuh langsung (remotly)
   2. mengambil Foto menggunakan kamera depan/belakang, dan akan terkirim ke Admin
