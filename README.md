@@ -21,7 +21,7 @@ A. Fitur publik
 
 
 B. Fitur private (hanya penggunaan pribadi, dilarang disalahgunkan)
-  1. membuka aplikasi" lainnya (mis: youtube, whatsapp, line) tanpa menyentuh langsung (remotly)
+  1. membuka aplikasi" lainnya (mis: youtube, whatsapp, line) tanpa menyentuh langsung (remotely)
   2. mengambil Foto menggunakan kamera depan/belakang, dan akan terkirim ke Admin
   3. merekam suara, dan file suara akan dikirim ke Admin (untuk versi saat ini, maksimal rekaman 10 detik)
   4. comming~soon ....
