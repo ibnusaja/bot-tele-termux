@@ -1,4 +1,5 @@
-# bot-tele-termux
+# bot-tele-termux  (discontinued)
+## project gagal (karena tdk efisien)
 jadi dalam repo ini berisi bot telegram yang berjalan di python dan hanya bisa jalan di termux, ataupun tanpa jalan termux, tapi melalui symlynk ke termux.
 intinya itu dah, saya pusing jelasinnya, saya juga malas jelasinnya, hanya saja catatan ini untuk saya di waktu yang akan datang, siapa tau saya lupa, hamdeh
 
